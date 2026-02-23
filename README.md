@@ -55,7 +55,7 @@ The full code is available in this repository:
 
 Watch the full video tutorial here:
 
-[[Your YouTube Link Here]https://youtu.be/ixFxmd_xvyc](https://youtu.be/ixFxmd_xvyc)
+https://youtu.be/ixFxmd_xvyc
 
 ---
 
