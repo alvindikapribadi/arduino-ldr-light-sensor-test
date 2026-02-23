@@ -35,7 +35,7 @@ The middle connection between the LDR and the resistor goes to analog pin A0.
 
 ![Wiring Diagram](diagram.png)
 
-> Make sure your wiring matches the table above before uploading the code.
+> Make sure your wiring matches the diagram above before uploading the code.
 
 ---
 
