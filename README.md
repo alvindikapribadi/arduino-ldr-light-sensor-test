@@ -33,13 +33,19 @@ Voltage Divider Configuration:
 
 The middle connection between the LDR and the resistor goes to analog pin A0.
 
+![Wiring Diagram](diagram.png)
+
+> Make sure your wiring matches the table above before uploading the code.
+
 ---
 
 ## 💻 Arduino Code
 
-The full code is available in this repository:
+You can download the Arduino sketch here:
 
-`Arduino_LDR_Light_Sensor_Test.ino`
+[Download Arduino Code](Arduino_LDR_Light_Sensor_Test.ino)
+
+Or open the `.ino` file directly inside this repository.
 
 ---
 
