@@ -61,7 +61,7 @@ Or open the `.ino` file directly inside this repository.
 
 Watch the full video tutorial here:
 
-👉 https://youtu.be/ixFxmd_xvyc
+[![Watch the video](https://img.youtube.com/vi/ixFxmd_xvyc/0.jpg)](https://youtu.be/ixFxmd_xvyc)
 
 ---
 
